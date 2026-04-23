@@ -1,4 +1,3 @@
-# Wordle-UDP-Servers
 # Wordle UDP Client-Server System (C)
 
 ## Overview
